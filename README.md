@@ -23,7 +23,7 @@ To use this aplaction follow the install, otherwise you can do get, post, put, a
 
 ![immmage of insomina call](./assets/images/estore.JPG);
 
-video: https://youtu.be/BnmiTLGyJBc 
+video: https://youtu.be/4-gUzfsVrUc 
 
 ## License
 
